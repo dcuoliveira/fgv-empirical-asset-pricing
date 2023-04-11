@@ -1,4 +1,4 @@
-# FGV_Empirical_Asset_Pricing
+# fgv-empirical-asset-pricing
 This repository will be used to organize all the codes and notes written on the Empirical asset pricing course given at the school of economics at FGV-SP on 2020 by prof. Marcelo Fernandes.
 
 ## References
